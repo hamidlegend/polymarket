@@ -1,0 +1,18 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjEsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHg3RTFGQzNCMTY0NjY5RTRBQ0VBMTRGMzI0RThDOUY1QTI0MzkyNDUwIn0",
+    "payload": "eyJkb21haW4iOiJnb2FsY2FzdC5hcHAifQ",
+    "signature": "MHg..."
+  },
+  "frame": {
+    "version": "1",
+    "name": "GoalCast",
+    "iconUrl": "https://goalcast.app/icon.png",
+    "homeUrl": "https://goalcast.app",
+    "imageUrl": "https://goalcast.app/preview.png",
+    "buttonTitle": "Open GoalCast",
+    "splashImageUrl": "https://goalcast.app/splash.png",
+    "splashBackgroundColor": "#0ea5e9",
+    "webhookUrl": "https://goalcast.app/api/webhook"
+  }
+}

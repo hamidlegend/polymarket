@@ -1,0 +1,9 @@
+This is a placeholder for the GoalCast splash screen. Please replace this with an actual 1080x1920 PNG image (mobile splash screen dimensions).
+
+The splash screen should include:
+- GoalCast logo/icon
+- Simple, clean background with brand colors
+- Minimal text (just "GoalCast" or tagline)
+- Dimensions: 1080x1920 pixels (mobile portrait)
+- PNG format
+- Background color: #0ea5e9 (as specified in manifest.json)

@@ -1,0 +1,14 @@
+{
+  "buildCommand": "npm run build",
+  "devCommand": "npm run dev",
+  "installCommand": "npm install",
+  "framework": "nextjs",
+  "outputDirectory": ".next",
+  "env": {
+    "NEXT_PUBLIC_PRIVY_APP_ID": "@privy_app_id",
+    "NEXT_PUBLIC_POLYGON_RPC_URL": "@polygon_rpc_url",
+    "POLYMARKET_BUILDER_API_KEY": "@polymarket_builder_api_key",
+    "POLYMARKET_BUILDER_SECRET": "@polymarket_builder_secret",
+    "POLYMARKET_BUILDER_PASSPHRASE": "@polymarket_builder_passphrase"
+  }
+}
